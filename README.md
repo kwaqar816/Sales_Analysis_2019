@@ -14,3 +14,4 @@ Then the cleaning stuff begins, with cleaning of all Nan values missing values a
 # Output
 ![githubimage](https://user-images.githubusercontent.com/66062385/127738325-2daa4b79-f860-4141-8be5-181a98b9dbe4.PNG)
 ![github image 2](https://user-images.githubusercontent.com/66062385/127738368-a12d41ab-f3f4-45d8-be3d-4899613a7275.PNG)
+![github image3](https://user-images.githubusercontent.com/66062385/127738407-a9a20a03-9a5c-4409-877f-90b6abfb3de8.PNG)
